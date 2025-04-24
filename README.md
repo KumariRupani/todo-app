@@ -1,20 +1,34 @@
 # ✅ To-Do App
 
-A simple and clean **To-Do List** web application built using **HTML**, **CSS**, and **JavaScript** to help you stay organized and productive.
+A simple, elegant, and responsive **To-Do List Web Application** built using **HTML**, **CSS**, and **JavaScript** — designed to keep you organized and boost your productivity.
+
+🔗 **Live Demo**: [kumarirupani.github.io/todo-app](https://kumarirupani.github.io/todo-app/)
+
+---
 
 ## ✨ Features
 
-- Add, delete, and mark tasks as complete
-- Responsive user interface
-- Local storage support — your tasks are saved even after refreshing the page
-- Light and user-friendly design
+- ✅ Add new tasks
+- 🗑️ Delete tasks
+- ✔️ Mark tasks as completed
+- 💾 Save tasks locally with **Local Storage**
+- 📱 Fully responsive across devices
+- 🎨 Clean and intuitive user interface
 
-https://kumarirupani.github.io/todo-app/
+---
+## 🛠️ Built With
 
-## 📦 Built With
+- **HTML** – Structure and markup
+- **CSS** – Layout and responsive styling
+- **JavaScript** – Functionality and interactivity
 
-- **HTML** – Markup
-- **CSS** – Styling and layout
-- **JavaScript** – Logic and interactivity
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/kumarirupani/todo-app.git
+
 
 
