@@ -9,8 +9,6 @@ A simple and clean **To-Do List** web application built using **HTML**, **CSS**,
 - Local storage support — your tasks are saved even after refreshing the page
 - Light and user-friendly design
 
-## 🌐 Live Demo
-
 https://kumarirupani.github.io/todo-app/
 
 ## 📦 Built With
