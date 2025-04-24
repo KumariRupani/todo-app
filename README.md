@@ -1,9 +1,6 @@
 # ✅ To-Do App
 
 A simple, elegant, and responsive **To-Do List Web Application** built using **HTML**, **CSS**, and **JavaScript** — designed to keep you organized and boost your productivity.
-
-🔗 **Live Demo**: [kumarirupani.github.io/todo-app](https://kumarirupani.github.io/todo-app/)
-
 ---
 
 ## ✨ Features
