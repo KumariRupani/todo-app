@@ -15,8 +15,6 @@ A simple and clean **To-Do List** web application built using **HTML**, **CSS**,
 
 A simple and clean **To-Do List** web application built using **HTML**, **CSS**, and **JavaScript** to help you stay organized and productive.
 
-![todo-preview](preview.png) <!-- Optional: Replace or remove if not using -->
-
 ## ✨ Features
 
 - Add, delete, and mark tasks as complete
@@ -26,7 +24,7 @@ A simple and clean **To-Do List** web application built using **HTML**, **CSS**,
 
 ## 🌐 Live Demo
 
-👉 [Try it live](https://KumariRupani.github.io/your-repo-name/)  
+👉 [Try it live](https://KumariRupani.github.io/todo-app/)  
 
 ## 📦 Built With
 
@@ -34,11 +32,4 @@ A simple and clean **To-Do List** web application built using **HTML**, **CSS**,
 - **CSS** – Styling and layout
 - **JavaScript** – Logic and interactivity
 
-## 📦 Built With
-
-- **HTML** – Markup
-- **CSS** – Styling and layout
-- **JavaScript** – Logic and interactivity
-
-## 📁 Folder Structure
 
