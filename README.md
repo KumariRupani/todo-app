@@ -11,7 +11,7 @@ A simple and clean **To-Do List** web application built using **HTML**, **CSS**,
 
 ## 🌐 Live Demo
 
-👉 [Try it live](https://KumariRupani.github.io/todo-app/)  
+👉 [Try it live](https://KumariRupani.github.io/todo-app)  
 
 ## 📦 Built With
 
